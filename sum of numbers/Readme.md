@@ -1,0 +1,2 @@
+In the input, you are first given the number of numbers to be added (i.e. n), then in the next n lines, a number whose number of digits is less than 100 is given in each line.
+The output should be the sum of the numbers given in the input

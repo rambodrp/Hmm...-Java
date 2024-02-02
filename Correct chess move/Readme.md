@@ -1,0 +1,3 @@
+After the beads are determined, the next line contains m, which means the number of questions, and the questions are located in m of the next line. Each question contains a 4-character string, the first two characters of which indicate the initial position of the particle to be moved, and the second two characters specify the desired location for the movement of the particle.
+
+The output should contain m lines, each line containing the answer to a question. The answer to each question must be one of the three words YES, which means that it is possible to move, NO, which means that the move is not correct, and TAKE, which means that with this move, a piece from the opposite side is taken.
